@@ -9,10 +9,8 @@ This project predicts the heating load and energy consumption of buildings by an
 - [Dataset](#dataset)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Results](#results)
 - [Contributions](#contributions)
-- [License](#license)
 
 ## Overview
 This project aims to predict the heating load and energy consumption of buildings by analyzing their structural parameters, such as wall area, roof area, and overall height. By testing multiple regression models, including Decision Trees, Random Forest, Gradient Boosting, and CatBoost, the project seeks to determine the most accurate algorithm for forecasting energy usage in energy-efficient buildings.
