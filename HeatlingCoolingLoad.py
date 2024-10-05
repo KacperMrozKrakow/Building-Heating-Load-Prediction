@@ -18,7 +18,7 @@ from catboost import CatBoostRegressor
 warnings.filterwarnings('ignore')
 
 # Load data
-dane = pd.read_csv('D:/projkety/Building Energy Efficiency.csv')
+dane = pd.read_csv('data/Building Energy Efficiency.csv')
 
 # Display the first few rows of the data
 print(dane.head())
