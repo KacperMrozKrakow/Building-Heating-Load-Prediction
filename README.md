@@ -66,8 +66,8 @@ You can find the dataset in the repository here:
    python -m venv venv
    venv\Scripts\activate
 
-3. Install the required libraries:
-```bash
+3. **Install the required libraries:**
+   ```bash
    pip install -r requirements.txt
 
 ## Usage
