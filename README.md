@@ -88,11 +88,15 @@ A comparison between actual and predicted heating load values: This plot compare
 
 Why It’s Useful: This comparison allows us to visually assess the performance of different regression models. It helps demonstrate how well the models are able to predict energy usage based on building characteristics, and highlights any significant deviations or inaccuracies.
 
+
+
 ![11](https://github.com/user-attachments/assets/c83ee1ea-4784-4d7a-bfb3-46990f807bab)
 
 Standard deviation chart between predicted and actual values: This chart shows the standard deviation between the predicted and actual heating load values for the different regression models. It illustrates the spread of errors, providing a quantitative measure of model accuracy.
 
 Why It’s Useful: The standard deviation between predicted and actual values gives insight into the consistency and reliability of the model. A lower standard deviation indicates that the model is making more precise predictions, while a higher value may suggest the model struggles with certain data points.
+
+
   
 ![10](https://github.com/user-attachments/assets/f50ecf1f-ba3e-4616-82df-95cc89ea4bf0)
 
@@ -100,6 +104,8 @@ A heatmap of properties: This heatmap provides a visual representation of the co
 
 Why It’s Useful: By examining these correlations, you can better understand which building parameters have the greatest influence on energy consumption. This information is crucial for optimizing building design or retrofitting decisions to improve energy efficiency.
 ![9](https://github.com/user-attachments/assets/0c03d9ab-4040-424f-888b-9116a98ff269)
+
+
 
 - Model error distribution: A histogram of prediction errors for each model.
 - Model performance comparison: Table displaying the MAE for each regression model.
