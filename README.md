@@ -105,11 +105,12 @@ A heatmap of properties: This heatmap provides a visual representation of the co
 Why It’s Useful: By examining these correlations, you can better understand which building parameters have the greatest influence on energy consumption. This information is crucial for optimizing building design or retrofitting decisions to improve energy efficiency.
 ![9](https://github.com/user-attachments/assets/0c03d9ab-4040-424f-888b-9116a98ff269)
 
-
-
-- Model error distribution: A histogram of prediction errors for each model.
 - Model performance comparison: Table displaying the MAE for each regression model.
 ![4](https://github.com/user-attachments/assets/e92cf68b-8364-47ee-8702-cb144ea0ba9d)
+
+This table presents the Mean Absolute Error (MAE) for each of the regression models used to predict the heating load of buildings. The MAE represents the average difference between the predicted and actual values, giving a clear metric of how accurate each model is.
+
+Why It’s Useful: The MAE is a crucial metric for evaluating model performance. By comparing the MAE across different regression models, this table provides a quantitative assessment of which models make the most accurate predictions. Lower MAE values indicate better-performing models, making this table an essential tool for selecting the most effective approach for energy consumption prediction.
 
 
 # Contributions
